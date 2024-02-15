@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yeidy Estebe\\Desktop\\C# Basico\\SCHOOL-Ycea13\\Proyecto_School\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73854D06-B2E9-4B94-9FE1-1C6537934219}|Proyecto_School.Class\\Proyecto_School.Class.csproj|c:\\users\\yeidy estebe\\desktop\\c# basico\\school-ycea13\\proyecto_school\\proyecto_school.class\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73854D06-B2E9-4B94-9FE1-1C6537934219}|Proyecto_School.Class\\Proyecto_School.Class.csproj|solutionrelative:proyecto_school.class\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Yeidy Estebe\\Desktop\\C# Basico\\SCHOOL-Ycea13\\Proyecto_School\\Proyecto_School.Class\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Proyecto_School.Class\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\Yeidy Estebe\\Desktop\\C# Basico\\SCHOOL-Ycea13\\Proyecto_School\\Proyecto_School.Class\\Entities\\Course.cs",
+              "RelativeToolTip": "Proyecto_School.Class\\Entities\\Course.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwFwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T01:22:44.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
