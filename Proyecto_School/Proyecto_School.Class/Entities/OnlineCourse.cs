@@ -6,7 +6,7 @@ namespace Proyecto_School.class.Entities
         #region "Atributos"
 
             public int _CourseID
-            public strin? _URL
+            public string? _URL
         
         #endregion
 
@@ -20,10 +20,10 @@ namespace Proyecto_School.class.Entities
             set { _CourseID = value; }
         }
         
-        public strin? URL
+        public string? URL
         {
-            get {return CourseID}
-            set {CourseID = value}
+            get {return _URL}
+            set {_URL = value}
 
         }
 
