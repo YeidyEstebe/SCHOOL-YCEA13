@@ -1,12 +1,12 @@
-namespace Proyecto_School.class.Entities
+namespace Proyecto_School.Class.Entities
 {
     public class OnlineCourse
     {
 
         #region "Atributos"
 
-            public int _CourseID
-            public string? _URL
+            public int _CourseID;
+            public string? _URL;
         
         #endregion
 
@@ -16,14 +16,14 @@ namespace Proyecto_School.class.Entities
        
         public int CourseID
         {
-            get { return _CourseID; }
-            set { _CourseID = value; }
+            get { return _CourseID;}
+            set { _CourseID = value;}
         }
         
         public string? URL
         {
-            get {return _URL}
-            set {_URL = value}
+            get {return _URL;}
+            set {_URL = value;}
 
         }
 

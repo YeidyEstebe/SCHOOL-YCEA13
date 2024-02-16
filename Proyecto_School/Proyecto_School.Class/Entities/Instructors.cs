@@ -6,10 +6,10 @@ namespace Proyecto_School.Class.Entities
 
         #region "Atributos"
 
-        public int _Id
-        public string? _LastName
-        public string? _FirstName
-        public DateTime? _HireDate 
+        public int _Id;
+        public string? _LastName;
+        public string? _FirstName;
+        public DateTime? _HireDate; 
         
         #endregion
 

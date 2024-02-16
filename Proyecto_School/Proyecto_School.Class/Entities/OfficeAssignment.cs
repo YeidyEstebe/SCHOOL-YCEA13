@@ -1,4 +1,4 @@
-namespace Proyecto_School.class.Entities
+namespace Proyecto_School.Class.Entities
 {
 
     public class OfficeAssignment

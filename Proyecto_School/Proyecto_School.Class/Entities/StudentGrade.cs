@@ -1,4 +1,4 @@
-namespace Proyecto_School.class.Entites
+namespace Proyecto_School.Class.Entites
 {
     public class StudentGrade
     {
