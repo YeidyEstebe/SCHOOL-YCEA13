@@ -1,6 +1,6 @@
-namespace Proyecto_School.Class.Entities
+namespace Proyecto_School.Class.Core
 {
-    public class BaseEntity
+    public abstract class BaseEntity
     {
 
        public DateTime CreationDate { get; set;}
