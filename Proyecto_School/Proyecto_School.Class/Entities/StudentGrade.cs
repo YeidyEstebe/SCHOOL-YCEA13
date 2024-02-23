@@ -9,9 +9,4 @@ namespace Proyecto_School.Class.Entites
 
 
     }
-
-
-
-
-
 }

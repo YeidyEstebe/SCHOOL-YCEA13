@@ -1,4 +1,3 @@
-using System.Data;
 
 namespace Proyecto_School.Class.Entities
 {
