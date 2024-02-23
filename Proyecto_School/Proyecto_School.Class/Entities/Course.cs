@@ -1,9 +1,9 @@
 ﻿
-
+using Proyecto_School.Class.Core;
 
 namespace Proyecto_School.Class.Entities
 {
-    public class Course
+    public class Course :BaseEntity
     {
         #region "Atributos"
 
