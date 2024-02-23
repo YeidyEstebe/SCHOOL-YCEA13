@@ -1,6 +1,6 @@
 namespace Proyecto_School.Class.Entities
 {
-    public class ClaseBaseSchool
+    public class BaseEntity
     {
 
        public DateTime CreationDate { get; set;}
