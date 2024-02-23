@@ -44,5 +44,16 @@ namespace Proyecto_School.Class.Entities
 
         #endregion
 
+
+        void SaveCourse() 
+        {
+            this.Save();
+        }
+
+        public override bool Exists()
+        {
+            throw new NotImplementedException();
+
+        }
     }
 }

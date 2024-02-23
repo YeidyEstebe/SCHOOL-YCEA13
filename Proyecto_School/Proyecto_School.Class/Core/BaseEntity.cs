@@ -11,7 +11,7 @@ namespace Proyecto_School.Class.Core
         public DateTime? DeletedDate { get; set;}
         public bool Deleted { get; set;}  
 
-
+        public void Save() {}
     }
 
 

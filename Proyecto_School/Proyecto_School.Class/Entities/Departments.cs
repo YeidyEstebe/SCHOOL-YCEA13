@@ -11,6 +11,17 @@ namespace Proyecto_School.Class.Entities
         public SqlMoney Budget { get; set;}
         public DateTime StartDate { get; set;}
         public int Administrator { get; set;}
+
+        void SaveDepartments() 
+        {
+            this.Save();
+        }
+
+        public override bool Exists()
+        {
+            throw new NotImplementedException();
+
+        }
      
     }
 }
